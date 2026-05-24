@@ -1,16 +1,18 @@
-# Hi, I'm Sai Kumar 
+# Hi, I'm Sai Kumar 👋
 
-Software Engineer based in Edinburgh, UK, focused on AI-powered applications, backend engineering, and intelligent product development.
+Software Engineer based in Edinburgh, building AI-powered backend systems, intelligent search applications, and practical products that solve real-world problems.
 
-I have commercial software engineering experience building backend systems, APIs, and automation workflows, alongside hands-on AI product development in semantic search, NLP, and LLM-powered applications.
+I enjoy working at the intersection of backend engineering, AI, search, and product development, turning ideas into usable systems rather than just experiments.
 
-## About Me
+---
 
-- MSc Computer Science graduate from Edinburgh Napier University
-- Full UK work rights (no sponsorship required)
-- Interested in Software Engineering, Backend Engineering, and AI Engineering roles
-- Building intelligent products using Python, FastAPI, NLP, RAG, and cloud infrastructure
-- Currently working on AI product prototypes and practical search/recommendation systems
+## What I Build
+
+- AI-powered document intelligence platforms
+- Retrieval-Augmented Generation (RAG) applications
+- NLP-driven automation systems
+- LLM-powered recommendation workflows
+- Backend APIs and cloud-native services
 
 ---
 
@@ -19,7 +21,7 @@ I have commercial software engineering experience building backend systems, APIs
 ### Languages
 Python • SQL • JavaScript • TypeScript • Java
 
-### Backend & APIs
+### Backend
 FastAPI • Flask • REST APIs • PostgreSQL • MySQL
 
 ### AI / ML
@@ -28,35 +30,41 @@ RAG • LangChain • NLP • FAISS • scikit-learn • XGBoost • LLM Integra
 ### Cloud / DevOps
 AWS • Docker • Kubernetes • GitHub Actions • Linux
 
-### Monitoring / Tooling
+### Monitoring
 Prometheus • ELK Stack • Git
 
 ---
 
 ## Featured Projects
 
-### DocAware – AI Document Intelligence Platform
-AI-powered document analysis platform for semantic retrieval, clause risk detection, and conversational document querying.
+### 📄 DocAware — AI Document Intelligence Platform
+AI-powered document analysis platform for semantic retrieval, clause risk detection, and conversational document understanding.
 
-**Tech:** Python, FastAPI, LangChain, FAISS, AWS, Docker
-
----
-
-### NLP Ticket Classification System
-Machine learning pipeline for automated support ticket classification with **97.8% accuracy**, reducing manual triage effort.
-
-**Tech:** Python, Flask, scikit-learn, XGBoost
+**Built with:** Python, FastAPI, LangChain, FAISS, AWS, Docker
 
 ---
 
-### AI Travel Planner
-LLM-powered recommendation application for personalised travel planning using natural language interactions.
+### 🔍 RAG Document Search Platform
+Semantic search platform designed for intelligent retrieval across 1,000+ documents with fast, context-aware querying.
 
-**Tech:** Python, Docker, Kubernetes, LLM APIs
+**Built with:** Python, FastAPI, FAISS, LangChain
 
 ---
 
-## Connect With Me
+### 🎯 NLP Ticket Classification System
+Machine learning classification pipeline achieving **97.8% accuracy**, reducing manual ticket triage effort through automated prediction workflows.
 
-- LinkedIn: https://www.linkedin.com/in/sai-g-kumar
-- GitHub Projects: https://github.com/gajamsaikumar
+**Built with:** Python, Flask, scikit-learn, XGBoost
+
+---
+
+### ✈️ AI Travel Planner
+LLM-powered recommendation application for natural language travel planning and personalised itinerary generation.
+
+**Built with:** Python, Docker, Kubernetes, LLM APIs
+
+---
+
+## Connect
+
+- LinkedIn: www.linkedin.com/in/sai-g-kumar
