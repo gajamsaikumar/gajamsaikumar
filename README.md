@@ -1,4 +1,4 @@
-# Hi, I'm Sai Kumar 👋
+# Hi, I'm Sai Kumar 
 
 Software Engineer based in Edinburgh, UK, focused on AI-powered applications, backend engineering, and intelligent product development.
 
