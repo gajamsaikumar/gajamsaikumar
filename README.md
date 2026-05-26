@@ -1,4 +1,4 @@
-# Hi, I'm Sai Kumar 👋
+# Hi, I'm Sai Kumar 
 
 Software Engineer based in Edinburgh, building AI-powered backend systems, intelligent search applications, and practical products that solve real-world problems.
 
@@ -11,7 +11,7 @@ Software Engineer based in Edinburgh, building AI-powered backend systems, intel
 
 ## Featured Projects
 
-### 📄 DocAware – AI Document Intelligence Platform
+###  DocAware – AI Document Intelligence Platform
 AI-powered document analysis platform for semantic retrieval, risk analysis, and conversational querying across business documents.
 
 **Stack:** Python, FastAPI, LangChain, Vector Search, LLM APIs, Document Processing
@@ -25,14 +25,14 @@ Semantic search platform for intelligent retrieval across 1,000+ documents with 
 
 ---
 
-### 🎯 NLP Ticket Classification System
+###  NLP Ticket Classification System
 Machine learning pipeline for automated support ticket classification achieving **97.8% accuracy**, reducing manual effort through intelligent routing.
 
 **Stack:** Python, Flask, scikit-learn, XGBoost, NLP, TF-IDF, NMF
 
 ---
 
-### ✈️ AI Travel Planner
+###  AI Travel Planner
 LLM-powered recommendation application for personalised travel planning with natural language interactions.
 
 **Stack:** Python, Docker, Kubernetes, ELK Stack, Prometheus, LLM APIs
