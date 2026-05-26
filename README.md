@@ -2,57 +2,61 @@
 
 Software Engineer based in Edinburgh, building AI-powered backend systems, intelligent search applications, and practical products that solve real-world problems.
 
-🔹 2+ years commercial software engineering experience building backend systems, APIs, and automation workflows  
+I enjoy working at the intersection of backend engineering, AI, search, and product development, turning ideas into usable systems.
+
+🔹 Commercial experience building backend systems, APIs, and automation workflows  
 🔹 Built AI-powered applications across RAG, NLP, semantic search, and LLM workflows  
-🔹 Created an NLP ticket classifier achieving **97.8% accuracy**, reducing estimated manual triage effort by 60%  
-🔹 Experienced with Python backend engineering, cloud deployment, containers, and observability tooling  
+🔹 Created an NLP ticket classifier achieving **97.8% accuracy**  
+🔹 Experience with cloud deployment, containers, and production-focused engineering  
 
 ---
 
 ## Featured Projects
 
-###  DocAware – AI Document Intelligence Platform
-AI-powered document analysis platform for semantic retrieval, risk analysis, and conversational querying across business documents.
+###  DocAware — AI Document Intelligence Platform
+AI-powered document analysis platform for semantic retrieval, clause analysis, risk detection, and conversational querying.
 
-**Stack:** Python, FastAPI, LangChain, LLM APIs, Document Processing
+**Stack:** Python, Streamlit, Mistral AI, Sentence Transformers, OCR, Docker
 
 ---
 
-###  RAG Search Platform
-Semantic search platform for intelligent retrieval across 1,000+ documents with sub-2 second contextual querying.
+###  RAG Document Search Platform
+Secure semantic search and conversational document intelligence platform with authentication, OCR, and fast contextual retrieval.
 
-**Stack:** Python, FastAPI, LangChain, FAISS, Semantic Search
+**Stack:** Python, FastAPI, JWT Auth, LangChain, FAISS, OpenAI, Gemini, Docker
 
 ---
 
 ###  NLP Ticket Classification System
-Machine learning pipeline for automated support ticket classification achieving **97.8% accuracy**, reducing manual effort through intelligent routing.
+Machine learning pipeline for automated support ticket classification achieving **97.8% accuracy**.
 
-**Stack:** Python, Flask, scikit-learn, XGBoost, NLP, TF-IDF, NMF
+**Stack:** Python, scikit-learn, NLTK, TF-IDF, XGBoost
 
 ---
 
 ###  AI Travel Planner
-LLM-powered recommendation application for personalised travel planning with natural language interactions.
+LLM-powered travel planning application for personalised itinerary generation and interactive discovery.
 
-**Stack:** Python, Docker, Kubernetes, ELK Stack, Prometheus, LLM APIs
+**Stack:** React, TypeScript, Gemini AI, Firebase, Google Maps API
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, SQL, JavaScript, TypeScript, Java  
+**Languages:** Python • SQL • JavaScript • TypeScript • Java  
 
-**Backend:** FastAPI, Flask, REST APIs, PostgreSQL, MySQL  
+**Backend:** FastAPI • Flask • REST APIs • PostgreSQL • MySQL  
 
-**AI / ML:** RAG, LangChain, NLP, FAISS, scikit-learn, XGBoost, Prompt Engineering, Vector Search  
+**Frontend:** React • TypeScript • Tailwind CSS  
 
-**Cloud / DevOps:** AWS (ECS, ECR, Fargate), Docker, Kubernetes, GitHub Actions  
+**AI / ML:** RAG • LangChain • NLP • FAISS • Sentence Transformers • scikit-learn • XGBoost • Prompt Engineering  
 
-**Monitoring / Tooling:** Prometheus, ELK Stack, Linux, Git  
+**Cloud / DevOps:** AWS • Docker • Kubernetes • GitHub Actions • Firebase  
+
+**Monitoring / Tooling:** Prometheus • ELK Stack • Linux • Git • pytest  
 
 ---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/sai-g-kumar)
+🔗 LinkedIn: https://www.linkedin.com/in/sai-g-kumar  
