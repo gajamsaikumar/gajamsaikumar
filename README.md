@@ -4,7 +4,7 @@ Software Engineer based in Edinburgh, building AI-powered backend systems, intel
 
 🔹 2+ years commercial software engineering experience building backend systems, APIs, and automation workflows  
 🔹 Built AI-powered applications across RAG, NLP, semantic search, and LLM workflows  
-🔹 Created an NLP ticket classifier achieving **97.8% accuracy**, reducing estimated manual triage effort by ~60%  
+🔹 Created an NLP ticket classifier achieving **97.8% accuracy**, reducing estimated manual triage effort by 60%  
 🔹 Experienced with Python backend engineering, cloud deployment, containers, and observability tooling  
 
 ---
@@ -14,11 +14,11 @@ Software Engineer based in Edinburgh, building AI-powered backend systems, intel
 ###  DocAware – AI Document Intelligence Platform
 AI-powered document analysis platform for semantic retrieval, risk analysis, and conversational querying across business documents.
 
-**Stack:** Python, FastAPI, LangChain, Vector Search, LLM APIs, Document Processing
+**Stack:** Python, FastAPI, LangChain, LLM APIs, Document Processing
 
 ---
 
-### 🔍 RAG Search Platform
+###  RAG Search Platform
 Semantic search platform for intelligent retrieval across 1,000+ documents with sub-2 second contextual querying.
 
 **Stack:** Python, FastAPI, LangChain, FAISS, Semantic Search
