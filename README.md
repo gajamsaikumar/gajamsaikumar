@@ -9,10 +9,18 @@ I build AI-powered applications, backend services, and cloud-based solutions usi
 Featured Projects
 
 • RAG Document Intelligence Platform
+
 • DocAware – AI Document Risk Analysis Platform
+
 • NLP Ticket Classification System (97.89% Accuracy)
 
-Currently interested in Backend Engineering, AI Applications, Cloud Technologies, and Software Development.
+Core Technologies
+
+Python • FastAPI • SQL • AWS • Docker • REST APIs • LangChain • FAISS • NLP • CI/CD
+
+Current Focus
+
+Currently building AI-powered applications and backend systems while exploring cloud-native software development and modern AI workflows.
 
 ---
 
