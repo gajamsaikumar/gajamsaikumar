@@ -1,12 +1,10 @@
 # Hi, I'm Sai Kumar 
 
-Software Engineer based in Edinburgh with over 2 years of commercial experience developing backend applications, REST APIs, and database-driven systems.
+Software Engineer with over 2 years of commercial experience developing Python backend applications, REST APIs, and database-driven systems.
 
-I enjoy building practical AI-powered applications, backend services, and cloud-based solutions using Python, FastAPI, AWS, Docker, NLP, and Retrieval-Augmented Generation (RAG).
+MSc Computer Science graduate focused on backend engineering, AI-powered applications, and cloud-based software development.
 
-Core Technologies
-
-Python • FastAPI • SQL • AWS • Docker • REST APIs • LangChain • FAISS • NLP • GitHub Actions
+I build AI-powered applications, backend services, and cloud-based solutions using Python, FastAPI, AWS, Docker, NLP, and Retrieval-Augmented Generation (RAG).
 
 Featured Projects
 
