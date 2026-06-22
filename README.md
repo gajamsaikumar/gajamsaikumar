@@ -1,13 +1,20 @@
 # Hi, I'm Sai Kumar 
 
-Software Engineer based in Edinburgh, building AI-powered backend systems, intelligent search applications, and practical products that solve real-world problems.
+Software Engineer based in Edinburgh with over 2 years of commercial experience developing backend applications, REST APIs, and database-driven systems.
 
-I enjoy working at the intersection of backend engineering, AI, search, and product development, turning ideas into usable systems.
+I enjoy building practical AI-powered applications, backend services, and cloud-based solutions using Python, FastAPI, AWS, Docker, NLP, and Retrieval-Augmented Generation (RAG).
 
-🔹 Commercial experience building backend systems, APIs, and automation workflows  
-🔹 Built AI-powered applications across RAG, NLP, semantic search, and LLM workflows  
-🔹 Created an NLP ticket classifier achieving **97.8% accuracy**  
-🔹 Experience with cloud deployment, containers, and production-focused engineering  
+Core Technologies
+
+Python • FastAPI • SQL • AWS • Docker • REST APIs • LangChain • FAISS • NLP • GitHub Actions
+
+Featured Projects
+
+• RAG Document Intelligence Platform
+• DocAware – AI Document Risk Analysis Platform
+• NLP Ticket Classification System (97.89% Accuracy)
+
+Currently interested in Backend Engineering, AI Applications, Cloud Technologies, and Software Development.
 
 ---
 
